@@ -1,0 +1,2 @@
+This folder contains the information of the features that possess the most amount of correlations (with 0.9 for pearson, spearman and kendall) in between each other
+(The minimum number of correlations is 16 out of 22 and for the Structure Function index, it was only selected one out of the two indexes for minimizing the number of utilised feats)
